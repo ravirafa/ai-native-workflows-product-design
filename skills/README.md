@@ -53,4 +53,4 @@ Turns raw usability test notes/transcripts into structured, severity-rated findi
 
 ## Available skills
 
-_(none yet — this section grows as skills are added)_
+- **[target-size-review](./target-size-review/SKILL.md)** — Review interactive target sizes for touch/pointer usability. Evaluates WCAG 2.2 target-size minimums, spacing, and multi-input usability in code, designs, or specs.
