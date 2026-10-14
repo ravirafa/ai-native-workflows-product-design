@@ -53,4 +53,5 @@ Turns raw usability test notes/transcripts into structured, severity-rated findi
 
 ## Available skills
 
+- **[anti-slop-ui](./anti-slop-ui/SKILL.md)** — Guide UI generation and review from product-specific design intent, replace generic defaults with concrete details, and self-review with evidence.
 - **[target-size-review](./target-size-review/SKILL.md)** — Review interactive target sizes for touch/pointer usability. Evaluates WCAG 2.2 target-size minimums, spacing, and multi-input usability in code, designs, or specs.
