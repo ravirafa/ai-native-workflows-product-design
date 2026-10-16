@@ -90,7 +90,7 @@ After generating or inspecting the UI, quote evidence from the actual UI, design
 | Same action, same label on every screen | | List the labels or identify inconsistencies. |
 | Contrast and keyboard baseline met | | Cite measured contrast and keyboard/focus evidence, or list what could not be verified. |
 
-Then add **Defaults I used without a reason.** Be candid about any familiar pattern used without support from the intent.
+Mark any element you chose without a stated reason as [DEFAULT], and do not explain why.
 
 ### 6. Hand judgment back
 
